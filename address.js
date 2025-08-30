@@ -1,0 +1,11 @@
+
+const PRIVATE_KEY=process.env.PRIVATE_KEY
+const PUBLIC_KEY=process.env.PUBLIC_KEY
+const TOKEN_MINT_ADDRESS=process.env.TOKEN_MINT_ADDRESS
+
+
+module.exports = {
+  PRIVATE_KEY: PRIVATE_KEY, 
+  PUBLIC_KEY: PUBLIC_KEY,  
+  TOKEN_MINT_ADDRESS: TOKEN_MINT_ADDRESS, 
+};
