@@ -78,4 +78,8 @@ Send Sol
 ```bash
 POST /send
 ```
+---
+
+**Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/rahulchaudharyji2/) | [GitHub](https://github.com/Rahulchaudharyji2)
 
